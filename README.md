@@ -1,0 +1,1 @@
+This project uses the pandas and sklearn libraries in python along with a data set containing labeled sms messages to train a machine learning model to make predictions on whether a text message is spam or not.
